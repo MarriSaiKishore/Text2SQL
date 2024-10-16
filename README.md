@@ -15,7 +15,6 @@ In my demo I have made use of an Uber Dataset with the given ER Diagram shown be
 ![uber data analysis ERD](https://github.com/karantha-kur/Text2SQL/assets/80699988/f07ed9fc-78f9-4ed8-90be-9bf20190b90c)
 
 
-When configured and deployed this is what it finally produces:
 
 
 Techstack used:
