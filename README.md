@@ -17,7 +17,6 @@ In my demo I have made use of an Uber Dataset with the given ER Diagram shown be
 
 When configured and deployed this is what it finally produces:
 
-<img width="1437" alt="Screenshot 2024-07-08 at 10 08 39 PM" src="https://github.com/karantha-kur/Text2SQL/assets/80699988/3ff13506-632f-4d1d-8551-1dc0ead4a1f7">
 
 Techstack used:
 
